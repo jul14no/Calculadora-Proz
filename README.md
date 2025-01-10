@@ -15,11 +15,12 @@ Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e seg
 
 É necessário que o sistema mostre as opções sempre que finalizar uma operação e mostrar o resultado. 
 
-#Código da Calculadora
+
 
 
 
 def calculadora():
+
     while True:
         print("\nEscolha a operação:")
         print("1: Soma")
